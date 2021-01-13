@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "obsidiansword:refined_obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "obsidiansword:obsidian_sword"
+  }
+}

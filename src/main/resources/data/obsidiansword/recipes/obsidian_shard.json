@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "obsidiansword:obsidian_shard",
+  "experience": 0.4,
+  "cookingtime": 300
+}
